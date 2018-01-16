@@ -34,6 +34,9 @@
 #include "Timer.h"
 #include "BlinkLed.h"
 
+#include "EventHandler.h"
+#include "Event.h"
+
 // ----------------------------------------------------------------------------
 //
 // STM32F1 led blink sample (trace via DEBUG).
@@ -78,6 +81,22 @@ namespace
       - BLINK_ON_TICKS;
 }
 
+
+
+//Prototypes:
+void ledOnFunction(void);
+void ledOffFunction(void);
+
+std::string onEventName = "onEvent";
+std::string offEventName = "offEvent";
+EventHandler handler;
+Event onEvent = Event(onEventName,ledOnFunction,100,&handler);
+Event offEvent = Event(offEventName,ledOffFunction,1000,&handler);
+
+Timer timer;
+
+BlinkLed blinkLed;
+
 // ----- main() ---------------------------------------------------------------
 
 // Sample pragmas to cope with warnings. Please note the related line at
@@ -108,10 +127,9 @@ main(int argc, char* argv[])
   // at high speed.
   trace_printf("System clock: %u Hz\n", SystemCoreClock);
 
-  Timer timer;
-  timer.start();
 
-  BlinkLed blinkLed;
+  timer.start(&handler);
+
 
   // Perform all necessary initialisations for the LED.
   blinkLed.powerUp();
@@ -134,6 +152,17 @@ main(int argc, char* argv[])
     }
   // Infinite loop, never return.
 }
+
+
+void ledOnFunction(void)
+{
+	blinkLed.turnOn();
+}
+void ledOffFunction(void)
+{
+	blinkLed.turnOff();
+}
+
 
 #pragma GCC diagnostic pop
 

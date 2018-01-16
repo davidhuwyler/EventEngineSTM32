@@ -41,12 +41,10 @@ bool EventHandler::add(Event* event)
 
 void EventHandler::tick(void)
 {
-	while(true)
+	unsigned int i = 0;
+	for(i = 0 ; i< this->eventIndex ; i++)
 	{
-		for(int i = 0 ; i< this->eventIndex ; i++)
-		{
-			eventArray[i]->tick();
-		}
+		eventArray[i]->tick();
 	}
 }
 

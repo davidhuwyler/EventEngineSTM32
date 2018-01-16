@@ -28,7 +28,8 @@ src/main.o: ../src/main.cpp ../system/include/diag/Trace.h \
  ../system/include/stm32f1-stdperiph/stm32f10x_tim.h \
  ../system/include/stm32f1-stdperiph/stm32f10x_usart.h \
  ../system/include/stm32f1-stdperiph/stm32f10x_wwdg.h \
- ../system/include/stm32f1-stdperiph/misc.h ../include/BlinkLed.h
+ ../system/include/stm32f1-stdperiph/misc.h ../include/EventHandler.h \
+ ../include/BlinkLed.h ../include/EventHandler.h ../include/Event.h
 
 ../system/include/diag/Trace.h:
 
@@ -98,4 +99,10 @@ src/main.o: ../src/main.cpp ../system/include/diag/Trace.h \
 
 ../system/include/stm32f1-stdperiph/misc.h:
 
+../include/EventHandler.h:
+
 ../include/BlinkLed.h:
+
+../include/EventHandler.h:
+
+../include/Event.h:
