@@ -57,8 +57,6 @@ main(int argc, char* argv[])
   timer.setEventHandler(&handler);
   blinkLed.powerUp();
 
-  uint32_t seconds = 0;
-
   while (1)
     {
 	  handler.execute();
