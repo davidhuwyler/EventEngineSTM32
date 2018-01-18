@@ -164,8 +164,6 @@ z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fseek.o) (_fseeko_r)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o) (_fwalk)
-z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
-                              ./src/main.o (fwrite)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o) (_global_impure_ptr)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-iswctype.o)
@@ -212,8 +210,6 @@ z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o) (_malloc_r)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-openr.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fopen.o) (_open_r)
-z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
-                              ./src/main.o (puts)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sscanf.o)
@@ -254,8 +250,6 @@ z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/
                               ./system/src/diag/Trace.o (vsnprintf)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsprintf.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o) (vsprintf)
-z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
-                              z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o) (__swbuf_r)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wcrtomb.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(codecvt_members.o) (wcrtomb)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wcscoll.o)
@@ -286,8 +280,6 @@ z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cow-wstring-inst.o) (wmemset)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o) (_write_r)
-z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wsetup.o)
-                              z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o) (__swsetup_r)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-abs.o)
                               z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strftime.o) (abs)
 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
@@ -1019,14 +1011,19 @@ Discarded input sections
  .text.raise    0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text.kill     0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._chown   0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .text._close   0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._execve  0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._fork    0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .text._fstat   0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._getpid  0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._gettimeofday
                 0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .text._isatty  0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._kill    0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._link    0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .text._lseek   0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._open    0x00000000       0x10 ./system/src/newlib/_syscalls.o
+ .text._read    0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._readlink
                 0x00000000       0x10 ./system/src/newlib/_syscalls.o
  .text._stat    0x00000000       0x10 ./system/src/newlib/_syscalls.o
@@ -1819,8 +1816,6 @@ Discarded input sections
                 0x00000000       0x38 ./src/Event.o
  .text._ZN5EventC2ENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPFvvEP12EventHandler
                 0x00000000       0x38 ./src/Event.o
- .text._ZN5Event8activateEv
-                0x00000000       0x10 ./src/Event.o
  .text._ZN5Event10deactivateEv
                 0x00000000        0x8 ./src/Event.o
  .text._ZN5Event15setEventHandlerEP12EventHandler
@@ -1829,10 +1824,6 @@ Discarded input sections
                 0x00000000        0x4 ./src/Event.o
  .text._ZN5Event19setCallbackFunctionEPFvvE
                 0x00000000        0x4 ./src/Event.o
- .text._ZNKSt8functionIFvvEEclEv
-                0x00000000       0x10 ./src/Event.o
- .text._ZN5Event4callEv
-                0x00000000       0x40 ./src/Event.o
  .text._ZNSt8functionIFvvEEC2ERKS1_
                 0x00000000       0x20 ./src/Event.o
  .text._ZN5EventC2ENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt8functionIFvvEEjP12EventHandler
@@ -1935,8 +1926,6 @@ Discarded input sections
  .text          0x00000000        0x0 ./src/EventHandler.o
  .data          0x00000000        0x0 ./src/EventHandler.o
  .bss           0x00000000        0x0 ./src/EventHandler.o
- .text._ZN12EventHandler7executeEv
-                0x00000000       0x24 ./src/EventHandler.o
  .debug_macro   0x00000000      0x928 ./src/EventHandler.o
  .debug_macro   0x00000000      0x136 ./src/EventHandler.o
  .debug_macro   0x00000000      0x353 ./src/EventHandler.o
@@ -2089,6 +2078,8 @@ Discarded input sections
  .text          0x00000000        0x0 ./src/Timer.o
  .data          0x00000000        0x0 ./src/Timer.o
  .bss           0x00000000        0x0 ./src/Timer.o
+ .text._ZN5Timer5sleepEm
+                0x00000000       0x14 ./src/Timer.o
  .debug_macro   0x00000000      0x928 ./src/Timer.o
  .debug_macro   0x00000000       0x50 ./src/Timer.o
  .debug_macro   0x00000000       0x1c ./src/Timer.o
@@ -2205,6 +2196,14 @@ Discarded input sections
  .text          0x00000000        0x0 ./src/_write.o
  .data          0x00000000        0x0 ./src/_write.o
  .bss           0x00000000        0x0 ./src/_write.o
+ .text._write   0x00000000       0x24 ./src/_write.o
+ .debug_info    0x00000000      0x132 ./src/_write.o
+ .debug_abbrev  0x00000000       0xb9 ./src/_write.o
+ .debug_loc     0x00000000       0xad ./src/_write.o
+ .debug_aranges
+                0x00000000       0x20 ./src/_write.o
+ .debug_ranges  0x00000000       0x10 ./src/_write.o
+ .debug_macro   0x00000000      0x17c ./src/_write.o
  .debug_macro   0x00000000      0x88c ./src/_write.o
  .debug_macro   0x00000000       0x10 ./src/_write.o
  .debug_macro   0x00000000       0x22 ./src/_write.o
@@ -2232,6 +2231,12 @@ Discarded input sections
  .debug_macro   0x00000000       0x40 ./src/_write.o
  .debug_macro   0x00000000       0xd7 ./src/_write.o
  .debug_macro   0x00000000      0x513 ./src/_write.o
+ .debug_line    0x00000000      0x370 ./src/_write.o
+ .debug_str     0x00000000     0x724b ./src/_write.o
+ .comment       0x00000000       0x6f ./src/_write.o
+ .debug_frame   0x00000000       0x28 ./src/_write.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/_write.o
  .group         0x00000000        0x8 ./src/main.o
  .group         0x00000000        0x8 ./src/main.o
  .group         0x00000000        0x8 ./src/main.o
@@ -2462,8 +2467,6 @@ Discarded input sections
  .text._ZSt20__throw_system_errori
                 0x00000000        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
  .text._ZSt20__throw_future_errori
-                0x00000000        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
- .text._ZSt25__throw_bad_function_callv
                 0x00000000        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
  .text._ZSt19__throw_regex_errorNSt15regex_constants10error_typeE
                 0x00000000        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
@@ -12111,7 +12114,14 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x10c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x54 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
  .text.fflush   0x00000000       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00000000       0x68 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fileno.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fileno.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fileno.o)
@@ -12124,10 +12134,18 @@ Discarded input sections
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
  .text.__fp_unlock
                 0x00000000        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x00000000        0xc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+ .text.std.isra.0
+                0x00000000       0x48 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
  .text.__fp_lock
                 0x00000000        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
  .text._cleanup
                 0x00000000        0xc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sinit  0x00000000       0x60 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+ .text.__sfp    0x00000000       0x78 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
  .text.__sfp_lock_acquire
                 0x00000000        0x2 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
  .text.__sfp_lock_release
@@ -12171,12 +12189,16 @@ Discarded input sections
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
  .text._fwalk   0x00000000       0x38 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
- .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
- .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
- .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
+ .text._fwalk_reent
+                0x00000000       0x3c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000000       0x54 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-iswctype.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-iswctype.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-iswctype.o)
@@ -12276,6 +12298,13 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
+ .text.__swhatbuf_r
+                0x00000000       0x46 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
+ .text.__smakebuf_r
+                0x00000000       0x78 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000       0x54 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
@@ -12315,6 +12344,10 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
@@ -12328,9 +12361,6 @@ Discarded input sections
  .debug_frame   0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-openr.o)
  .ARM.attributes
                 0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-openr.o)
- .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
- .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
- .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
@@ -12346,8 +12376,17 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
+ .text.__sread  0x00000000       0x22 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
  .text.__seofread
                 0x00000000        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000       0x88 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
  .text          0x00000000       0x14 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strcmp.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strcmp.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strcmp.o)
@@ -12522,10 +12561,6 @@ Discarded input sections
  .debug_frame   0x00000000       0x40 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsprintf.o)
  .ARM.attributes
                 0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsprintf.o)
- .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
- .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
- .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
- .text.__swbuf  0x00000000       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wcrtomb.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wcrtomb.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wcrtomb.o)
@@ -12655,9 +12690,11 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
- .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wsetup.o)
- .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wsetup.o)
- .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wsetup.o)
+ .text._write_r
+                0x00000000       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-abs.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-abs.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-abs.o)
@@ -12668,6 +12705,11 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-flags.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-flags.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-flags.o)
@@ -12679,6 +12721,11 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x00000000       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-gdtoa-gethex.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-gdtoa-gethex.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-gdtoa-gethex.o)
@@ -12722,6 +12769,11 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x00000000       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-iswalnum.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-iswalnum.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-iswalnum.o)
@@ -12784,6 +12836,11 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mbstowcs.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mbstowcs.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mbstowcs.o)
@@ -12883,6 +12940,10 @@ Discarded input sections
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
+ .text._read_r  0x00000000       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x00000000       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
  .text          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sccl.o)
  .data          0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sccl.o)
  .bss           0x00000000        0x0 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sccl.o)
@@ -13114,7 +13175,7 @@ END GROUP
                 0x20004c00                __Main_Stack_Limit = (__stack - __Main_Stack_Size)
                 [!provide]                PROVIDE (_Main_Stack_Limit, __Main_Stack_Limit)
                 0x00000100                _Minimum_Stack_Size = 0x100
-                0x2000033c                PROVIDE (_Heap_Begin, _end_noinit)
+                0x200002e4                PROVIDE (_Heap_Begin, _end_noinit)
                 0x20004c00                PROVIDE (_Heap_Limit, (__stack - __Main_Stack_Size))
 
 .isr_vector     0x08000000      0x354
@@ -13233,18 +13294,18 @@ END GROUP
                 0x08000350                CAN2_SCE_IRQHandler
                 0x08000350                USB_HP_CAN1_TX_IRQHandler
 
-.inits          0x08000354       0x48
+.inits          0x08000354       0x40
                 0x08000354                __data_regions_array_start = .
-                0x08000354        0x4 LONG 0x80029d8 LOADADDR (.data)
+                0x08000354        0x4 LONG 0x80020f0 LOADADDR (.data)
                 0x08000358        0x4 LONG 0x20000000 ADDR (.data)
                 0x0800035c        0x4 LONG 0x20000088 (ADDR (.data) + SIZEOF (.data))
-                0x08000360        0x4 LONG 0x80029d8 LOADADDR (.data_CCMRAM)
+                0x08000360        0x4 LONG 0x80020f0 LOADADDR (.data_CCMRAM)
                 0x08000364        0x4 LONG 0x0 ADDR (.data_CCMRAM)
                 0x08000368        0x4 LONG 0x0 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
                 0x0800036c                __data_regions_array_end = .
                 0x0800036c                __bss_regions_array_start = .
                 0x0800036c        0x4 LONG 0x20000088 ADDR (.bss)
-                0x08000370        0x4 LONG 0x2000033c (ADDR (.bss) + SIZEOF (.bss))
+                0x08000370        0x4 LONG 0x200002e4 (ADDR (.bss) + SIZEOF (.bss))
                 0x08000374        0x4 LONG 0x0 ADDR (.bss_CCMRAM)
                 0x08000378        0x4 LONG 0x0 (ADDR (.bss_CCMRAM) + SIZEOF (.bss_CCMRAM))
                 0x0800037c                __bss_regions_array_end = .
@@ -13260,433 +13321,351 @@ END GROUP
                 0x0800037c                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  *(.init_array)
- .init_array    0x0800037c        0x4 ./src/Timer.o
- .init_array    0x08000380        0x4 ./src/main.o
- .init_array    0x08000384        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
- .init_array    0x08000388        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
- .init_array    0x0800038c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
- .init_array    0x08000390        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x08000394                PROVIDE (__init_array_end, .)
-                0x08000394                . = ALIGN (0x4)
-                0x08000394                PROVIDE (__fini_array_start, .)
+ .init_array    0x0800037c        0x4 ./src/main.o
+ .init_array    0x08000380        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+ .init_array    0x08000384        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+ .init_array    0x08000388        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+ .init_array    0x0800038c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x08000390                PROVIDE (__init_array_end, .)
+                0x08000390                . = ALIGN (0x4)
+                0x08000390                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array)
- .fini_array    0x08000394        0x4 ./src/Timer.o
- .fini_array    0x08000398        0x4 ./src/main.o
-                0x0800039c                PROVIDE (__fini_array_end, .)
+ .fini_array    0x08000390        0x4 ./src/main.o
+                0x08000394                PROVIDE (__fini_array_end, .)
 
 .flashtext
  *(.flashtext .flashtext.*)
 
-.text           0x0800039c     0x263b
+.text           0x08000394     0x1d5b
  *(.text .text.*)
  .text.GPIO_Init
-                0x0800039c      0x128 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
-                0x0800039c                GPIO_Init
+                0x08000394      0x128 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
+                0x08000394                GPIO_Init
  .text.GPIO_SetBits
-                0x080004c4       0x60 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
-                0x080004c4                GPIO_SetBits
+                0x080004bc       0x60 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
+                0x080004bc                GPIO_SetBits
  .text.GPIO_ResetBits
-                0x08000524       0x60 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
-                0x08000524                GPIO_ResetBits
+                0x0800051c       0x60 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
+                0x0800051c                GPIO_ResetBits
  .text.RCC_APB2PeriphClockCmd
-                0x08000584       0x4c ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
-                0x08000584                RCC_APB2PeriphClockCmd
- .text._exit    0x080005d0        0x4 ./system/src/newlib/_exit.o
-                0x080005d0                _exit
- .text.abort    0x080005d4       0x14 ./system/src/newlib/_exit.o
-                0x080005d4                abort
- .text._sbrk    0x080005e8       0x44 ./system/src/newlib/_sbrk.o
-                0x080005e8                _sbrk
+                0x0800057c       0x4c ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
+                0x0800057c                RCC_APB2PeriphClockCmd
+ .text._exit    0x080005c8        0x4 ./system/src/newlib/_exit.o
+                0x080005c8                _exit
+ .text.abort    0x080005cc       0x14 ./system/src/newlib/_exit.o
+                0x080005cc                abort
+ .text._sbrk    0x080005e0       0x44 ./system/src/newlib/_sbrk.o
+                0x080005e0                _sbrk
  .text.__initialize_args
-                0x0800062c       0x10 ./system/src/newlib/_syscalls.o
-                0x0800062c                __initialize_args
- .text._close   0x0800063c       0x10 ./system/src/newlib/_syscalls.o
-                0x0800063c                _close
- .text._fstat   0x0800064c       0x10 ./system/src/newlib/_syscalls.o
-                0x0800064c                _fstat
- .text._isatty  0x0800065c       0x10 ./system/src/newlib/_syscalls.o
-                0x0800065c                _isatty
- .text._lseek   0x0800066c       0x10 ./system/src/newlib/_syscalls.o
-                0x0800066c                _lseek
- .text._read    0x0800067c       0x10 ./system/src/newlib/_syscalls.o
-                0x0800067c                _read
+                0x08000624       0x10 ./system/src/newlib/_syscalls.o
+                0x08000624                __initialize_args
  .text.assert_failed
-                0x0800068c       0x14 ./system/src/newlib/assert.o
-                0x0800068c                assert_failed
+                0x08000634       0x14 ./system/src/newlib/assert.o
+                0x08000634                assert_failed
  .text.trace_printf
-                0x080006a0       0x30 ./system/src/diag/Trace.o
-                0x080006a0                trace_printf
+                0x08000648       0x30 ./system/src/diag/Trace.o
+                0x08000648                trace_printf
  .text.trace_puts
-                0x080006d0       0x20 ./system/src/diag/Trace.o
-                0x080006d0                trace_puts
+                0x08000678       0x20 ./system/src/diag/Trace.o
+                0x08000678                trace_puts
  .text._trace_write_semihosting_debug
-                0x080006f0       0x64 ./system/src/diag/trace_impl.o
+                0x08000698       0x64 ./system/src/diag/trace_impl.o
  .text.trace_write
-                0x08000754        0x8 ./system/src/diag/trace_impl.o
-                0x08000754                trace_write
+                0x080006fc        0x8 ./system/src/diag/trace_impl.o
+                0x080006fc                trace_write
  .text.__initialize_hardware_early
-                0x0800075c       0x18 ./system/src/cortexm/_initialize_hardware.o
-                0x0800075c                __initialize_hardware_early
+                0x08000704       0x18 ./system/src/cortexm/_initialize_hardware.o
+                0x08000704                __initialize_hardware_early
  .text.__initialize_hardware
-                0x08000774        0x8 ./system/src/cortexm/_initialize_hardware.o
-                0x08000774                __initialize_hardware
+                0x0800071c        0x8 ./system/src/cortexm/_initialize_hardware.o
+                0x0800071c                __initialize_hardware
  .text.dumpExceptionStack
-                0x0800077c       0xf0 ./system/src/cortexm/exception_handlers.o
-                0x0800077c                dumpExceptionStack
+                0x08000724       0xf0 ./system/src/cortexm/exception_handlers.o
+                0x08000724                dumpExceptionStack
  .text.isSemihosting
-                0x0800086c       0x20 ./system/src/cortexm/exception_handlers.o
-                0x0800086c                isSemihosting
+                0x08000814       0x20 ./system/src/cortexm/exception_handlers.o
+                0x08000814                isSemihosting
  .text.SetSysClockTo72
-                0x0800088c       0xc4 ./system/src/cmsis/system_stm32f10x.o
+                0x08000834       0xc4 ./system/src/cmsis/system_stm32f10x.o
  .text.SetSysClock
-                0x08000950        0x8 ./system/src/cmsis/system_stm32f10x.o
+                0x080008f8        0x8 ./system/src/cmsis/system_stm32f10x.o
  .text.SystemInit
-                0x08000958       0x50 ./system/src/cmsis/system_stm32f10x.o
-                0x08000958                SystemInit
+                0x08000900       0x50 ./system/src/cmsis/system_stm32f10x.o
+                0x08000900                SystemInit
  .text.SystemCoreClockUpdate
-                0x080009a8       0x94 ./system/src/cmsis/system_stm32f10x.o
-                0x080009a8                SystemCoreClockUpdate
+                0x08000950       0x94 ./system/src/cmsis/system_stm32f10x.o
+                0x08000950                SystemCoreClockUpdate
  .text._ZN8BlinkLed7powerUpEv
-                0x08000a3c       0x3c ./src/BlinkLed.o
-                0x08000a3c                BlinkLed::powerUp()
+                0x080009e4       0x3c ./src/BlinkLed.o
+                0x080009e4                BlinkLed::powerUp()
  .text._ZN5EventD2Ev
-                0x08000a78       0x2c ./src/Event.o
-                0x08000a78                Event::~Event()
-                0x08000a78                Event::~Event()
+                0x08000a20       0x2c ./src/Event.o
+                0x08000a20                Event::~Event()
+                0x08000a20                Event::~Event()
  .text._ZN5EventD0Ev
-                0x08000aa4       0x14 ./src/Event.o
-                0x08000aa4                Event::~Event()
+                0x08000a4c       0x14 ./src/Event.o
+                0x08000a4c                Event::~Event()
  .text._ZN5Event8activateEj
-                0x08000ab8       0x20 ./src/Event.o
-                0x08000ab8                Event::activate(unsigned int)
+                0x08000a60       0x20 ./src/Event.o
+                0x08000a60                Event::activate(unsigned int)
+ .text._ZN5Event8activateEv
+                0x08000a80       0x10 ./src/Event.o
+                0x08000a80                Event::activate()
  .text._ZN5EventC2ENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPFvvEjP12EventHandler
-                0x08000ad8       0x44 ./src/Event.o
-                0x08000ad8                Event::Event(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, void (*)(), unsigned int, EventHandler*)
-                0x08000ad8                Event::Event(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, void (*)(), unsigned int, EventHandler*)
+                0x08000a90       0x44 ./src/Event.o
+                0x08000a90                Event::Event(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, void (*)(), unsigned int, EventHandler*)
+                0x08000a90                Event::Event(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, void (*)(), unsigned int, EventHandler*)
  .text._ZN5Event4tickEv
-                0x08000b1c       0x10 ./src/Event.o
-                0x08000b1c                Event::tick()
+                0x08000ad4       0x10 ./src/Event.o
+                0x08000ad4                Event::tick()
+ .text._ZNKSt8functionIFvvEEclEv
+                0x08000ae4       0x10 ./src/Event.o
+                0x08000ae4                std::function<void ()>::operator()() const
+ .text._ZN5Event4callEv
+                0x08000af4       0x40 ./src/Event.o
+                0x08000af4                Event::call()
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPcEEvT_S7_St20forward_iterator_tag
-                0x08000b2c       0x64 ./src/Event.o
-                0x08000b2c                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char*>(char*, char*, std::forward_iterator_tag)
+                0x08000b34       0x64 ./src/Event.o
+                0x08000b34                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char*>(char*, char*, std::forward_iterator_tag)
  .text._ZN5Event7getNameB5cxx11Ev
-                0x08000b90       0x20 ./src/Event.o
-                0x08000b90                Event::getName[abi:cxx11]()
+                0x08000b98       0x20 ./src/Event.o
+                0x08000b98                Event::getName[abi:cxx11]()
  .text._ZN12EventHandlerD2Ev
-                0x08000bb0        0xc ./src/EventHandler.o
-                0x08000bb0                EventHandler::~EventHandler()
-                0x08000bb0                EventHandler::~EventHandler()
+                0x08000bb8        0xc ./src/EventHandler.o
+                0x08000bb8                EventHandler::~EventHandler()
+                0x08000bb8                EventHandler::~EventHandler()
  .text._ZN12EventHandlerD0Ev
-                0x08000bbc       0x14 ./src/EventHandler.o
-                0x08000bbc                EventHandler::~EventHandler()
+                0x08000bc4       0x14 ./src/EventHandler.o
+                0x08000bc4                EventHandler::~EventHandler()
  .text._ZN12EventHandlerC2Ev
-                0x08000bd0       0x10 ./src/EventHandler.o
-                0x08000bd0                EventHandler::EventHandler()
-                0x08000bd0                EventHandler::EventHandler()
+                0x08000bd8       0x10 ./src/EventHandler.o
+                0x08000bd8                EventHandler::EventHandler()
+                0x08000bd8                EventHandler::EventHandler()
  .text._ZN12EventHandler3addEP5Event
-                0x08000be0       0x98 ./src/EventHandler.o
-                0x08000be0                EventHandler::add(Event*)
+                0x08000be8       0x98 ./src/EventHandler.o
+                0x08000be8                EventHandler::add(Event*)
  .text._ZN12EventHandler4tickEv
-                0x08000c78       0x1c ./src/EventHandler.o
-                0x08000c78                EventHandler::tick()
- .text._ZN5TimerC2EP12EventHandler
-                0x08000c94        0xc ./src/Timer.o
-                0x08000c94                Timer::Timer(EventHandler*)
-                0x08000c94                Timer::Timer(EventHandler*)
- .text._ZN5Timer5sleepEm
-                0x08000ca0       0x14 ./src/Timer.o
-                0x08000ca0                Timer::sleep(unsigned long)
+                0x08000c80       0x1c ./src/EventHandler.o
+                0x08000c80                EventHandler::tick()
+ .text._ZN12EventHandler7executeEv
+                0x08000c9c       0x24 ./src/EventHandler.o
+                0x08000c9c                EventHandler::execute()
+ .text._ZN5Timer15setEventHandlerEP12EventHandler
+                0x08000cc0        0xc ./src/Timer.o
+                0x08000cc0                Timer::setEventHandler(EventHandler*)
  .text.SysTick_Handler
-                0x08000cb4       0x24 ./src/Timer.o
-                0x08000cb4                SysTick_Handler
- .text._Z41__static_initialization_and_destruction_0ii
-                0x08000cd8       0x30 ./src/Timer.o
- .text._GLOBAL__sub_I__ZN5Timer13ms_delayCountE
-                0x08000d08       0x10 ./src/Timer.o
- .text._GLOBAL__sub_D__ZN5Timer13ms_delayCountE
-                0x08000d18       0x10 ./src/Timer.o
- .text._write   0x08000d28       0x24 ./src/_write.o
-                0x08000d28                _write
+                0x08000ccc       0x24 ./src/Timer.o
+                0x08000ccc                SysTick_Handler
  .text._Z13ledOnFunctionv
-                0x08000d4c       0x14 ./src/main.o
-                0x08000d4c                ledOnFunction()
+                0x08000cf0       0x28 ./src/main.o
+                0x08000cf0                ledOnFunction()
  .text._Z14ledOffFunctionv
-                0x08000d60       0x14 ./src/main.o
-                0x08000d60                ledOffFunction()
- .text.main     0x08000d74       0xbc ./src/main.o
-                0x08000d74                main
+                0x08000d18       0x28 ./src/main.o
+                0x08000d18                ledOffFunction()
+ .text.main     0x08000d40       0x64 ./src/main.o
+                0x08000d40                main
  .text._Z41__static_initialization_and_destruction_0ii
-                0x08000e30      0x104 ./src/main.o
- .text._GLOBAL__sub_I__Z11onEventNameB5cxx11
-                0x08000f34       0x10 ./src/main.o
- .text._GLOBAL__sub_D__Z11onEventNameB5cxx11
-                0x08000f44       0x10 ./src/main.o
- .text._ZdlPv   0x08000f54        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(del_op.o)
-                0x08000f54                operator delete(void*)
+                0x08000da4       0xf8 ./src/main.o
+ .text._GLOBAL__sub_I_main
+                0x08000e9c       0x10 ./src/main.o
+ .text._GLOBAL__sub_D_main
+                0x08000eac       0x10 ./src/main.o
+ .text._ZdlPv   0x08000ebc        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(del_op.o)
+                0x08000ebc                operator delete(void*)
  .text._ZSt19__throw_logic_errorPKc
-                0x08000f58        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
-                0x08000f58                std::__throw_logic_error(char const*)
+                0x08000ec0        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
+                0x08000ec0                std::__throw_logic_error(char const*)
  .text._ZSt20__throw_length_errorPKc
-                0x08000f5e        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
-                0x08000f5e                std::__throw_length_error(char const*)
+                0x08000ec6        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
+                0x08000ec6                std::__throw_length_error(char const*)
+ .text._ZSt25__throw_bad_function_callv
+                0x08000ecc        0x6 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
+                0x08000ecc                std::__throw_bad_function_call()
  .text._ZNSt11char_traitsIcE4copyEPcPKcj
-                0x08000f64        0x8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08000f64                std::char_traits<char>::copy(char*, char const*, unsigned int)
+                0x08000ed2        0x8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000ed2                std::char_traits<char>::copy(char*, char const*, unsigned int)
+ *fill*         0x08000eda        0x2 
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_createERjj
-                0x08000f6c       0x38 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08000f6c                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_create(unsigned int&, unsigned int)
+                0x08000edc       0x38 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000edc                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_create(unsigned int&, unsigned int)
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE10_M_disposeEv
-                0x08000fa4       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08000fa4                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_dispose()
+                0x08000f14       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000f14                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_dispose()
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE7_S_copyEPcPKcj
-                0x08000fb4       0x12 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08000fb4                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy(char*, char const*, unsigned int)
+                0x08000f24       0x12 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000f24                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy(char*, char const*, unsigned int)
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE13_S_copy_charsEPcPKcS7_
-                0x08000fc6        0xa z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08000fc6                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy_chars(char*, char const*, char const*)
+                0x08000f36        0xa z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000f36                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy_chars(char*, char const*, char const*)
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE9_M_assignERKS4_
-                0x08000fd0       0x4e z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08000fd0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_assign(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
- *fill*         0x0800101e        0x2 
+                0x08000f40       0x4e z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000f40                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_assign(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)
+ *fill*         0x08000f8e        0x2 
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag
-                0x08001020       0x48 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08001020                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)
+                0x08000f90       0x48 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000f90                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)
  .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2EPKcRKS3_
-                0x08001068       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
-                0x08001068                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)
-                0x08001068                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)
- .text._Znwj    0x08001094       0x22 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_op.o)
-                0x08001094                operator new(unsigned int)
- *fill*         0x080010b6        0x2 
+                0x08000fd8       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08000fd8                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)
+                0x08000fd8                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)
+ .text._Znwj    0x08001004       0x22 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_op.o)
+                0x08001004                operator new(unsigned int)
+ *fill*         0x08001026        0x2 
  .text.startup._GLOBAL__sub_I__ZNSt12ctype_bynameIcEC2ERKSsj
-                0x080010b8       0xc4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x08001028       0xc4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
  .text._ZSt15get_new_handlerv
-                0x0800117c       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
-                0x0800117c                std::get_new_handler()
+                0x080010ec       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
+                0x080010ec                std::get_new_handler()
  .text.startup._GLOBAL__sub_I__ZNSt12ctype_bynameIcEC2ERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEj
-                0x0800118c       0x84 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x080010fc       0x84 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
  .text.startup._GLOBAL__sub_I__ZNSt12ctype_bynameIwEC2ERKSsj
-                0x08001210       0xc4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x08001180       0xc4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
  .text.startup._GLOBAL__sub_I__ZNSt12ctype_bynameIwEC2ERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEj
-                0x080012d4       0x84 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
- .text.__errno  0x08001358        0xc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
-                0x08001358                __errno
- .text.__sflush_r
-                0x08001364      0x10c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
-                0x08001364                __sflush_r
- .text._fflush_r
-                0x08001470       0x54 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
-                0x08001470                _fflush_r
- .text._cleanup_r
-                0x080014c4        0xc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
-                0x080014c4                _cleanup_r
- .text.std.isra.0
-                0x080014d0       0x48 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
- .text.__sfmoreglue
-                0x08001518       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
-                0x08001518                __sfmoreglue
- .text.__sinit  0x08001544       0x60 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
-                0x08001544                __sinit
- .text.__sfp    0x080015a4       0x78 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
-                0x080015a4                __sfp
- .text._fwalk_reent
-                0x0800161c       0x3c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
-                0x0800161c                _fwalk_reent
- .text._fwrite_r
-                0x08001658       0x9c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
-                0x08001658                _fwrite_r
- .text.fwrite   0x080016f4       0x1c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
-                0x080016f4                fwrite
- .text.__swhatbuf_r
-                0x08001710       0x46 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
-                0x08001710                __swhatbuf_r
- *fill*         0x08001756        0x2 
- .text.__smakebuf_r
-                0x08001758       0x78 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
-                0x08001758                __smakebuf_r
- .text.malloc   0x080017d0       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
-                0x080017d0                malloc
- .text.free     0x080017e0       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
-                0x080017e0                free
- .text.memchr   0x080017f0       0x1c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memchr-stub.o)
-                0x080017f0                memchr
- .text.memcmp   0x0800180c       0x1e z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
-                0x0800180c                memcmp
- .text.memcpy   0x0800182a       0x16 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
-                0x0800182a                memcpy
- .text.memmove  0x08001840       0x36 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memmove.o)
-                0x08001840                memmove
- .text.memset   0x08001876       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
-                0x08001876                memset
- *fill*         0x08001886        0x2 
- .text._free_r  0x08001888       0x98 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
-                0x08001888                _free_r
+                0x08001244       0x84 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+ .text.__errno  0x080012c8        0xc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+                0x080012c8                __errno
+ .text.malloc   0x080012d4       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
+                0x080012d4                malloc
+ .text.free     0x080012e4       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
+                0x080012e4                free
+ .text.memchr   0x080012f4       0x1c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memchr-stub.o)
+                0x080012f4                memchr
+ .text.memcmp   0x08001310       0x1e z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+                0x08001310                memcmp
+ .text.memcpy   0x0800132e       0x16 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+                0x0800132e                memcpy
+ .text.memmove  0x08001344       0x36 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memmove.o)
+                0x08001344                memmove
+ *fill*         0x0800137a        0x2 
+ .text._free_r  0x0800137c       0x98 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
+                0x0800137c                _free_r
  .text._malloc_r
-                0x08001920       0xbc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
-                0x08001920                _malloc_r
- .text._puts_r  0x080019dc       0xb4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
-                0x080019dc                _puts_r
- .text.puts     0x08001a90       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
-                0x08001a90                puts
- .text._sbrk_r  0x08001aa0       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
-                0x08001aa0                _sbrk_r
- .text.__sread  0x08001ac0       0x22 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
-                0x08001ac0                __sread
- .text.__swrite
-                0x08001ae2       0x38 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
-                0x08001ae2                __swrite
- .text.__sseek  0x08001b1a       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
-                0x08001b1a                __sseek
- .text.__sclose
-                0x08001b3e        0x8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
-                0x08001b3e                __sclose
- .text          0x08001b46       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
-                0x08001b46                strlen
+                0x08001414       0xbc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x08001414                _malloc_r
+ .text._sbrk_r  0x080014d0       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
+                0x080014d0                _sbrk_r
+ .text          0x080014f0       0x10 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
+                0x080014f0                strlen
  .text._vsnprintf_r
-                0x08001b56       0x56 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
-                0x08001b56                _vsnprintf_r
-                0x08001b56                _vsniprintf_r
+                0x08001500       0x56 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
+                0x08001500                _vsnprintf_r
+                0x08001500                _vsniprintf_r
+ *fill*         0x08001556        0x2 
  .text.vsnprintf
-                0x08001bac       0x1c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
-                0x08001bac                vsnprintf
-                0x08001bac                vsniprintf
- .text.__swbuf_r
-                0x08001bc8       0xa8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
-                0x08001bc8                __swbuf_r
- .text._write_r
-                0x08001c70       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
-                0x08001c70                _write_r
- .text.__swsetup_r
-                0x08001c94       0xdc z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wsetup.o)
-                0x08001c94                __swsetup_r
- .text._close_r
-                0x08001d70       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
-                0x08001d70                _close_r
- .text._fstat_r
-                0x08001d90       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
-                0x08001d90                _fstat_r
- .text._isatty_r
-                0x08001db4       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
-                0x08001db4                _isatty_r
- .text._lseek_r
-                0x08001dd4       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
-                0x08001dd4                _lseek_r
+                0x08001558       0x1c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
+                0x08001558                vsnprintf
+                0x08001558                vsniprintf
  .text.__malloc_lock
-                0x08001df8        0x2 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
-                0x08001df8                __malloc_lock
+                0x08001574        0x2 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
+                0x08001574                __malloc_lock
  .text.__malloc_unlock
-                0x08001dfa        0x2 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
-                0x08001dfa                __malloc_unlock
+                0x08001576        0x2 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
+                0x08001576                __malloc_unlock
  .text.__ssputs_r
-                0x08001dfc       0xb2 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
-                0x08001dfc                __ssputs_r
- *fill*         0x08001eae        0x2 
+                0x08001578       0xb2 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x08001578                __ssputs_r
+ *fill*         0x0800162a        0x2 
  .text._svfprintf_r
-                0x08001eb0      0x1e8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
-                0x08001eb0                _svfiprintf_r
-                0x08001eb0                _svfprintf_r
+                0x0800162c      0x1e8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x0800162c                _svfiprintf_r
+                0x0800162c                _svfprintf_r
  .text._printf_common
-                0x08002098       0xec z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
-                0x08002098                _printf_common
+                0x08001814       0xec z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08001814                _printf_common
  .text._printf_i
-                0x08002184      0x24c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
-                0x08002184                _printf_i
- .text._read_r  0x080023d0       0x24 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
-                0x080023d0                _read_r
+                0x08001900      0x24c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x08001900                _printf_i
  .text._realloc_r
-                0x080023f4       0x4c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-reallocr.o)
-                0x080023f4                _realloc_r
+                0x08001b4c       0x4c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-reallocr.o)
+                0x08001b4c                _realloc_r
  .text._malloc_usable_size_r
-                0x08002440       0x14 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-msizer.o)
-                0x08002440                _malloc_usable_size_r
+                0x08001b98       0x14 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-msizer.o)
+                0x08001b98                _malloc_usable_size_r
  *(.rodata .rodata.* .constdata .constdata.*)
  .rodata.str1.4
-                0x08002454       0x31 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
- *fill*         0x08002485        0x3 
+                0x08001bac       0x31 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
+ *fill*         0x08001bdd        0x3 
  .rodata.str1.4
-                0x08002488       0x30 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
+                0x08001be0       0x30 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
  .rodata.str1.4
-                0x080024b8       0x14 ./system/src/newlib/_exit.o
+                0x08001c10       0x14 ./system/src/newlib/_exit.o
  .rodata.str1.4
-                0x080024cc       0x6b ./system/src/newlib/assert.o
+                0x08001c24       0x6b ./system/src/newlib/assert.o
                                  0x6f (size before relaxing)
- *fill*         0x08002537        0x1 
+ *fill*         0x08001c8f        0x1 
  .rodata.str1.4
-                0x08002538       0x29 ./system/src/diag/Trace.o
+                0x08001c90       0x29 ./system/src/diag/Trace.o
                                  0x2d (size before relaxing)
- *fill*         0x08002561        0x3 
+ *fill*         0x08001cb9        0x3 
  .rodata.str1.4
-                0x08002564      0x146 ./system/src/cortexm/exception_handlers.o
- *fill*         0x080026aa        0x2 
+                0x08001cbc      0x146 ./system/src/cortexm/exception_handlers.o
+ *fill*         0x08001e02        0x2 
  .rodata._ZTV5Event
-                0x080026ac       0x10 ./src/Event.o
-                0x080026ac                vtable for Event
+                0x08001e04       0x10 ./src/Event.o
+                0x08001e04                vtable for Event
  .rodata.str1.4
-                0x080026bc       0x2a ./src/Event.o
- *fill*         0x080026e6        0x2 
+                0x08001e14       0x2a ./src/Event.o
+ *fill*         0x08001e3e        0x2 
  .rodata._ZTV12EventHandler
-                0x080026e8       0x10 ./src/EventHandler.o
-                0x080026e8                vtable for EventHandler
+                0x08001e40       0x10 ./src/EventHandler.o
+                0x08001e40                vtable for EventHandler
  .rodata.str1.4
-                0x080026f8       0x84 ./src/main.o
-                                 0xad (size before relaxing)
+                0x08001e50       0x48 ./src/main.o
+                                 0x71 (size before relaxing)
  .rodata.str1.1
-                0x0800277c      0x1c4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x08001e98      0x1c4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
  .rodata.__sf_fake_stdin
-                0x08002940       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
-                0x08002940                __sf_fake_stdin
+                0x0800205c       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+                0x0800205c                __sf_fake_stdin
  .rodata.__sf_fake_stdout
-                0x08002960       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
-                0x08002960                __sf_fake_stdout
+                0x0800207c       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+                0x0800207c                __sf_fake_stdout
  .rodata.__sf_fake_stderr
-                0x08002980       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
-                0x08002980                __sf_fake_stderr
- .rodata._global_impure_ptr
-                0x080029a0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
-                0x080029a0                _global_impure_ptr
+                0x0800209c       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+                0x0800209c                __sf_fake_stderr
  .rodata.str1.1
-                0x080029a4       0x11 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
+                0x080020bc       0x11 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
  .rodata.str1.1
-                0x080029b5       0x22 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x080020cd       0x22 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
  *(vtable)
  *(.eh_frame*)
  *(.glue_7)
- .glue_7        0x080029d7        0x0 linker stubs
+ .glue_7        0x080020ef        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x080029d7        0x0 linker stubs
+ .glue_7t       0x080020ef        0x0 linker stubs
 
-.vfp11_veneer   0x080029d8        0x0
- .vfp11_veneer  0x080029d8        0x0 linker stubs
+.vfp11_veneer   0x080020f0        0x0
+ .vfp11_veneer  0x080020f0        0x0 linker stubs
 
-.v4_bx          0x080029d8        0x0
- .v4_bx         0x080029d8        0x0 linker stubs
+.v4_bx          0x080020f0        0x0
+ .v4_bx         0x080020f0        0x0 linker stubs
 
-.iplt           0x080029d8        0x0
- .iplt          0x080029d8        0x0 ./system/src/stm32f1-stdperiph/misc.o
+.iplt           0x080020f0        0x0
+ .iplt          0x080020f0        0x0 ./system/src/stm32f1-stdperiph/misc.o
 
-.rel.dyn        0x080029d8        0x0
- .rel.iplt      0x080029d8        0x0 ./system/src/stm32f1-stdperiph/misc.o
+.rel.dyn        0x080020f0        0x0
+ .rel.iplt      0x080020f0        0x0 ./system/src/stm32f1-stdperiph/misc.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x080029d8                . = ALIGN (0x4)
-                0x080029d8                __exidx_start = .
+                0x080020f0                . = ALIGN (0x4)
+                0x080020f0                __exidx_start = .
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x080029d8                __exidx_end = .
-                0x080029d8                . = ALIGN (0x4)
-                0x080029d8                _etext = .
-                0x080029d8                __etext = .
+                0x080020f0                __exidx_end = .
+                0x080020f0                . = ALIGN (0x4)
+                0x080020f0                _etext = .
+                0x080020f0                __etext = .
 
-.data_CCMRAM    0x00000000        0x0 load address 0x080029d8
+.data_CCMRAM    0x00000000        0x0 load address 0x080020f0
  FILL mask 0xff
  *(.data.CCMRAM .data.CCMRAM.*)
                 0x00000000                . = ALIGN (0x4)
-                0x080029d8                _sidata = LOADADDR (.data)
+                0x080020f0                _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x88 load address 0x080029d8
+.data           0x20000000       0x88 load address 0x080020f0
  FILL mask 0xff
                 0x20000000                _sdata = .
                 0x20000000                __data_start__ = .
@@ -13712,13 +13691,13 @@ END GROUP
                 0x20000088                _edata = .
                 0x20000088                __data_end__ = .
 
-.igot.plt       0x20000088        0x0 load address 0x08002a60
+.igot.plt       0x20000088        0x0 load address 0x08002178
  .igot.plt      0x20000088        0x0 ./system/src/stm32f1-stdperiph/misc.o
 
 .bss_CCMRAM     0x00000000        0x0
  *(.bss.CCMRAM .bss.CCMRAM.*)
 
-.bss            0x20000088      0x2b4
+.bss            0x20000088      0x25c
                 0x20000088                __bss_start__ = .
                 0x20000088                _sbss = .
  *(.bss_begin .bss_begin.*)
@@ -13730,183 +13709,178 @@ END GROUP
                 0x20000090        0x1 ./system/src/newlib/_syscalls.o
  *fill*         0x20000091        0x3 
  .bss.buf.5659  0x20000094       0x80 ./system/src/diag/Trace.o
- .bss.eventHandler
-                0x20000114       0x58 ./src/Timer.o
-                0x20000114                eventHandler
  .bss._ZN5Timer13ms_delayCountE
-                0x2000016c        0x4 ./src/Timer.o
-                0x2000016c                Timer::ms_delayCount
- .bss._Z11onEventNameB5cxx11
-                0x20000170       0x18 ./src/main.o
-                0x20000170                onEventName[abi:cxx11]
- .bss.offEvent  0x20000188       0x44 ./src/main.o
-                0x20000188                offEvent
- .bss._Z12offEventNameB5cxx11
-                0x200001cc       0x18 ./src/main.o
-                0x200001cc                offEventName[abi:cxx11]
- .bss.blinkLed  0x200001e4        0x1 ./src/main.o
-                0x200001e4                blinkLed
- *fill*         0x200001e5        0x3 
- .bss.timer     0x200001e8        0x1 ./src/main.o
-                0x200001e8                timer
+                0x20000114        0x4 ./src/Timer.o
+                0x20000114                Timer::ms_delayCount
+ .bss._ZN5Timer12eventHandlerE
+                0x20000118        0x4 ./src/Timer.o
+                0x20000118                Timer::eventHandler
+ .bss._ZN12_GLOBAL__N_18offEventE
+                0x2000011c       0x44 ./src/main.o
+ .bss._ZN12_GLOBAL__N_17handlerE
+                0x20000160       0x58 ./src/main.o
+ .bss._ZN12_GLOBAL__N_111onEventNameE
+                0x200001b8       0x18 ./src/main.o
+ .bss._ZN12_GLOBAL__N_112offEventNameE
+                0x200001d0       0x18 ./src/main.o
+ .bss._ZN12_GLOBAL__N_18blinkLedE
+                0x200001e8        0x1 ./src/main.o
  *fill*         0x200001e9        0x3 
- .bss.handler   0x200001ec       0x58 ./src/main.o
-                0x200001ec                handler
- .bss.onEvent   0x20000244       0x44 ./src/main.o
-                0x20000244                onEvent
+ .bss._ZN12_GLOBAL__N_17onEventE
+                0x200001ec       0x44 ./src/main.o
  .bss._ZGVNSt7collateIcE2idE
-                0x20000288        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x20000288                guard variable for std::collate<char>::id
+                0x20000230        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000230                guard variable for std::collate<char>::id
  .bss._ZGVNSt8messagesIcE2idE
-                0x2000028c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x2000028c                guard variable for std::messages<char>::id
+                0x20000234        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000234                guard variable for std::messages<char>::id
  .bss._ZGVNSt8time_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x20000290        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x20000290                guard variable for std::time_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
+                0x20000238        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000238                guard variable for std::time_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt8time_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x20000294        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x20000294                guard variable for std::time_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
+                0x2000023c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x2000023c                guard variable for std::time_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt11__timepunctIcE2idE
-                0x20000298        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x20000298                guard variable for std::__timepunct<char>::id
+                0x20000240        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000240                guard variable for std::__timepunct<char>::id
  .bss._ZGVNSt7num_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x2000029c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x2000029c                guard variable for std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
+                0x20000244        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000244                guard variable for std::num_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt7num_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x200002a0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x200002a0                guard variable for std::num_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
+                0x20000248        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000248                guard variable for std::num_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt8numpunctIcE2idE
-                0x200002a4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x200002a4                guard variable for std::numpunct<char>::id
+                0x2000024c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x2000024c                guard variable for std::numpunct<char>::id
  .bss._ZGVNSt9money_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x200002a8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x200002a8                guard variable for std::money_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
+                0x20000250        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000250                guard variable for std::money_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt9money_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x200002ac        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x200002ac                guard variable for std::money_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
+                0x20000254        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000254                guard variable for std::money_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt10moneypunctIcLb1EE2idE
-                0x200002b0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x200002b0                guard variable for std::moneypunct<char, true>::id
+                0x20000258        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x20000258                guard variable for std::moneypunct<char, true>::id
  .bss._ZGVNSt10moneypunctIcLb0EE2idE
-                0x200002b4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
-                0x200002b4                guard variable for std::moneypunct<char, false>::id
+                0x2000025c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x2000025c                guard variable for std::moneypunct<char, false>::id
  .bss._ZN12_GLOBAL__N_113__new_handlerE
-                0x200002b8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
+                0x20000260        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
  .bss._ZGVNSt7__cxx117collateIcE2idE
-                0x200002bc        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002bc                guard variable for std::__cxx11::collate<char>::id
+                0x20000264        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x20000264                guard variable for std::__cxx11::collate<char>::id
  .bss._ZGVNSt7__cxx118messagesIcE2idE
-                0x200002c0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002c0                guard variable for std::__cxx11::messages<char>::id
+                0x20000268        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x20000268                guard variable for std::__cxx11::messages<char>::id
  .bss._ZGVNSt7__cxx118time_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x200002c4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002c4                guard variable for std::__cxx11::time_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
+                0x2000026c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x2000026c                guard variable for std::__cxx11::time_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt7__cxx118numpunctIcE2idE
-                0x200002c8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002c8                guard variable for std::__cxx11::numpunct<char>::id
+                0x20000270        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x20000270                guard variable for std::__cxx11::numpunct<char>::id
  .bss._ZGVNSt7__cxx119money_putIcSt19ostreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x200002cc        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002cc                guard variable for std::__cxx11::money_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
+                0x20000274        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x20000274                guard variable for std::__cxx11::money_put<char, std::ostreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt7__cxx119money_getIcSt19istreambuf_iteratorIcSt11char_traitsIcEEE2idE
-                0x200002d0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002d0                guard variable for std::__cxx11::money_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
+                0x20000278        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x20000278                guard variable for std::__cxx11::money_get<char, std::istreambuf_iterator<char, std::char_traits<char> > >::id
  .bss._ZGVNSt7__cxx1110moneypunctIcLb1EE2idE
-                0x200002d4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002d4                guard variable for std::__cxx11::moneypunct<char, true>::id
+                0x2000027c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x2000027c                guard variable for std::__cxx11::moneypunct<char, true>::id
  .bss._ZGVNSt7__cxx1110moneypunctIcLb0EE2idE
-                0x200002d8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
-                0x200002d8                guard variable for std::__cxx11::moneypunct<char, false>::id
+                0x20000280        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x20000280                guard variable for std::__cxx11::moneypunct<char, false>::id
  .bss._ZGVNSt7collateIwE2idE
-                0x200002dc        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002dc                guard variable for std::collate<wchar_t>::id
+                0x20000284        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x20000284                guard variable for std::collate<wchar_t>::id
  .bss._ZGVNSt8messagesIwE2idE
-                0x200002e0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002e0                guard variable for std::messages<wchar_t>::id
+                0x20000288        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x20000288                guard variable for std::messages<wchar_t>::id
  .bss._ZGVNSt8time_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x200002e4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002e4                guard variable for std::time_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x2000028c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x2000028c                guard variable for std::time_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt8time_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x200002e8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002e8                guard variable for std::time_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x20000290        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x20000290                guard variable for std::time_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt11__timepunctIwE2idE
-                0x200002ec        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002ec                guard variable for std::__timepunct<wchar_t>::id
+                0x20000294        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x20000294                guard variable for std::__timepunct<wchar_t>::id
  .bss._ZGVNSt7num_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x200002f0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002f0                guard variable for std::num_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x20000298        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x20000298                guard variable for std::num_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt7num_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x200002f4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002f4                guard variable for std::num_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x2000029c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x2000029c                guard variable for std::num_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt8numpunctIwE2idE
-                0x200002f8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002f8                guard variable for std::numpunct<wchar_t>::id
+                0x200002a0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x200002a0                guard variable for std::numpunct<wchar_t>::id
  .bss._ZGVNSt9money_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x200002fc        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x200002fc                guard variable for std::money_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x200002a4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x200002a4                guard variable for std::money_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt9money_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x20000300        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x20000300                guard variable for std::money_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x200002a8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x200002a8                guard variable for std::money_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt10moneypunctIwLb1EE2idE
-                0x20000304        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x20000304                guard variable for std::moneypunct<wchar_t, true>::id
+                0x200002ac        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x200002ac                guard variable for std::moneypunct<wchar_t, true>::id
  .bss._ZGVNSt10moneypunctIwLb0EE2idE
-                0x20000308        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
-                0x20000308                guard variable for std::moneypunct<wchar_t, false>::id
+                0x200002b0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x200002b0                guard variable for std::moneypunct<wchar_t, false>::id
  .bss._ZGVNSt7__cxx117collateIwE2idE
-                0x2000030c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x2000030c                guard variable for std::__cxx11::collate<wchar_t>::id
+                0x200002b4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002b4                guard variable for std::__cxx11::collate<wchar_t>::id
  .bss._ZGVNSt7__cxx118messagesIwE2idE
-                0x20000310        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x20000310                guard variable for std::__cxx11::messages<wchar_t>::id
+                0x200002b8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002b8                guard variable for std::__cxx11::messages<wchar_t>::id
  .bss._ZGVNSt7__cxx118time_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x20000314        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x20000314                guard variable for std::__cxx11::time_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x200002bc        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002bc                guard variable for std::__cxx11::time_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt7__cxx118numpunctIwE2idE
-                0x20000318        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x20000318                guard variable for std::__cxx11::numpunct<wchar_t>::id
+                0x200002c0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002c0                guard variable for std::__cxx11::numpunct<wchar_t>::id
  .bss._ZGVNSt7__cxx119money_putIwSt19ostreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x2000031c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x2000031c                guard variable for std::__cxx11::money_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x200002c4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002c4                guard variable for std::__cxx11::money_put<wchar_t, std::ostreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt7__cxx119money_getIwSt19istreambuf_iteratorIwSt11char_traitsIwEEE2idE
-                0x20000320        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x20000320                guard variable for std::__cxx11::money_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
+                0x200002c8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002c8                guard variable for std::__cxx11::money_get<wchar_t, std::istreambuf_iterator<wchar_t, std::char_traits<wchar_t> > >::id
  .bss._ZGVNSt7__cxx1110moneypunctIwLb1EE2idE
-                0x20000324        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x20000324                guard variable for std::__cxx11::moneypunct<wchar_t, true>::id
+                0x200002cc        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002cc                guard variable for std::__cxx11::moneypunct<wchar_t, true>::id
  .bss._ZGVNSt7__cxx1110moneypunctIwLb0EE2idE
-                0x20000328        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
-                0x20000328                guard variable for std::__cxx11::moneypunct<wchar_t, false>::id
+                0x200002d0        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x200002d0                guard variable for std::__cxx11::moneypunct<wchar_t, false>::id
  .bss.__malloc_sbrk_start
-                0x2000032c        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
-                0x2000032c                __malloc_sbrk_start
+                0x200002d4        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x200002d4                __malloc_sbrk_start
  .bss.__malloc_free_list
-                0x20000330        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
-                0x20000330                __malloc_free_list
+                0x200002d8        0x4 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x200002d8                __malloc_free_list
  *(COMMON)
- COMMON         0x20000334        0x4 ./system/src/newlib/_syscalls.o
-                0x20000334                errno
+ COMMON         0x200002dc        0x4 ./system/src/newlib/_syscalls.o
+                0x200002dc                errno
  *(.bss_end .bss_end.*)
- .bss_end       0x20000338        0x4 ./system/src/newlib/_startup.o
-                0x2000033c                . = ALIGN (0x4)
-                0x2000033c                __bss_end__ = .
-                0x2000033c                _ebss = .
+ .bss_end       0x200002e0        0x4 ./system/src/newlib/_startup.o
+                0x200002e4                . = ALIGN (0x4)
+                0x200002e4                __bss_end__ = .
+                0x200002e4                _ebss = .
 
 .noinit_CCMRAM
  *(.noinit.CCMRAM .noinit.CCMRAM.*)
 
-.noinit         0x2000033c        0x0
-                0x2000033c                _noinit = .
+.noinit         0x200002e4        0x0
+                0x200002e4                _noinit = .
  *(.noinit .noinit.*)
-                0x2000033c                . = ALIGN (0x4)
-                0x2000033c                _end_noinit = .
+                0x200002e4                . = ALIGN (0x4)
+                0x200002e4                _end_noinit = .
                 [!provide]                PROVIDE (end, _end_noinit)
                 [!provide]                PROVIDE (_end, _end_noinit)
                 [!provide]                PROVIDE (__end, _end_noinit)
                 [!provide]                PROVIDE (__end__, _end_noinit)
 
-._check_stack   0x2000033c      0x100
-                0x2000043c                . = (. + _Minimum_Stack_Size)
- *fill*         0x2000033c      0x100 
+._check_stack   0x200002e4      0x100
+                0x200003e4                . = (. + _Minimum_Stack_Size)
+ *fill*         0x200002e4      0x100 
 
 .b1text
  *(.b1text)
@@ -13971,7 +13945,6 @@ END GROUP
  .comment       0x0000006e       0x6f ./src/Event.o
  .comment       0x0000006e       0x6f ./src/EventHandler.o
  .comment       0x0000006e       0x6f ./src/Timer.o
- .comment       0x0000006e       0x6f ./src/_write.o
  .comment       0x0000006e       0x6f ./src/main.o
 
 .ARM.attributes
@@ -14011,93 +13984,61 @@ END GROUP
  .ARM.attributes
                 0x00000330       0x33 ./src/Timer.o
  .ARM.attributes
-                0x00000363       0x33 ./src/_write.o
+                0x00000363       0x33 ./src/main.o
  .ARM.attributes
-                0x00000396       0x33 ./src/main.o
+                0x00000396       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(del_op.o)
  .ARM.attributes
-                0x000003c9       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(del_op.o)
+                0x000003c3       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
  .ARM.attributes
-                0x000003f6       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
+                0x000003f0       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
  .ARM.attributes
-                0x00000423       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+                0x0000041d       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_op.o)
  .ARM.attributes
-                0x00000450       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_op.o)
+                0x0000044a       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
  .ARM.attributes
-                0x0000047d       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+                0x00000477       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
  .ARM.attributes
-                0x000004aa       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
+                0x000004a4       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
  .ARM.attributes
-                0x000004d7       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+                0x000004d1       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
  .ARM.attributes
-                0x00000504       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+                0x000004fe       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
  .ARM.attributes
-                0x00000531       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+                0x0000052b       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
  .ARM.attributes
-                0x0000055e       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+                0x00000558       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
  .ARM.attributes
-                0x0000058b       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
+                0x00000585       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
  .ARM.attributes
-                0x000005b8       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+                0x000005b2       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
  .ARM.attributes
-                0x000005e5       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
+                0x000005df       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memchr-stub.o)
  .ARM.attributes
-                0x00000612       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
+                0x0000060c       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
  .ARM.attributes
-                0x0000063f       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-impure.o)
+                0x00000639       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
  .ARM.attributes
-                0x0000066c       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
+                0x00000666       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memmove.o)
  .ARM.attributes
-                0x00000699       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
+                0x00000693       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
  .ARM.attributes
-                0x000006c6       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memchr-stub.o)
+                0x000006c0       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
  .ARM.attributes
-                0x000006f3       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+                0x000006ed       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
  .ARM.attributes
-                0x00000720       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+                0x0000071a       0x17 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
  .ARM.attributes
-                0x0000074d       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memmove.o)
+                0x00000731       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
  .ARM.attributes
-                0x0000077a       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
+                0x0000075e       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
  .ARM.attributes
-                0x000007a7       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
+                0x0000078b       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
  .ARM.attributes
-                0x000007d4       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
+                0x000007b8       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x00000801       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
+                0x000007e5       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-reallocr.o)
  .ARM.attributes
-                0x0000082e       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
- .ARM.attributes
-                0x0000085b       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
- .ARM.attributes
-                0x00000888       0x17 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-strlen.o)
- .ARM.attributes
-                0x0000089f       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
- .ARM.attributes
-                0x000008cc       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
- .ARM.attributes
-                0x000008f9       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
- .ARM.attributes
-                0x00000926       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wsetup.o)
- .ARM.attributes
-                0x00000953       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
- .ARM.attributes
-                0x00000980       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
- .ARM.attributes
-                0x000009ad       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
- .ARM.attributes
-                0x000009da       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
- .ARM.attributes
-                0x00000a07       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
- .ARM.attributes
-                0x00000a34       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
- .ARM.attributes
-                0x00000a61       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
- .ARM.attributes
-                0x00000a8e       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
- .ARM.attributes
-                0x00000abb       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-reallocr.o)
- .ARM.attributes
-                0x00000ae8       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-msizer.o)
+                0x00000812       0x2d z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-msizer.o)
 
 .debug
  *(.debug)
@@ -14111,7 +14052,7 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000      0x690
+.debug_aranges  0x00000000      0x658
  *(.debug_aranges)
  .debug_aranges
                 0x00000000       0xa8 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
@@ -14146,16 +14087,14 @@ END GROUP
  .debug_aranges
                 0x00000590       0x48 ./src/EventHandler.o
  .debug_aranges
-                0x000005d8       0x48 ./src/Timer.o
+                0x000005d8       0x30 ./src/Timer.o
  .debug_aranges
-                0x00000620       0x20 ./src/_write.o
- .debug_aranges
-                0x00000640       0x50 ./src/main.o
+                0x00000608       0x50 ./src/main.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000    0x181d5
+.debug_info     0x00000000    0x17f75
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0xbf7 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_info    0x00000bf7      0xc9c ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -14173,11 +14112,10 @@ END GROUP
  .debug_info    0x000041ab      0x376 ./src/BlinkLed.o
  .debug_info    0x00004521     0x70e5 ./src/Event.o
  .debug_info    0x0000b606     0x47dc ./src/EventHandler.o
- .debug_info    0x0000fde2     0x1f22 ./src/Timer.o
- .debug_info    0x00011d04      0x132 ./src/_write.o
- .debug_info    0x00011e36     0x639f ./src/main.o
+ .debug_info    0x0000fde2     0x1e5b ./src/Timer.o
+ .debug_info    0x00011c3d     0x6338 ./src/main.o
 
-.debug_abbrev   0x00000000     0x33c1
+.debug_abbrev   0x00000000     0x3264
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x1f4 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_abbrev  0x000001f4      0x1f8 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -14195,11 +14133,10 @@ END GROUP
  .debug_abbrev  0x00001138      0x1dd ./src/BlinkLed.o
  .debug_abbrev  0x00001315      0x92d ./src/Event.o
  .debug_abbrev  0x00001c42      0x7d0 ./src/EventHandler.o
- .debug_abbrev  0x00002412      0x57f ./src/Timer.o
- .debug_abbrev  0x00002991       0xb9 ./src/_write.o
- .debug_abbrev  0x00002a4a      0x977 ./src/main.o
+ .debug_abbrev  0x00002412      0x4eb ./src/Timer.o
+ .debug_abbrev  0x000028fd      0x967 ./src/main.o
 
-.debug_line     0x00000000     0x873e
+.debug_line     0x00000000     0x836d
  *(.debug_line)
  .debug_line    0x00000000      0xa8e ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_line    0x00000a8e      0x9d8 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -14217,11 +14154,10 @@ END GROUP
  .debug_line    0x00004802      0x4f4 ./src/BlinkLed.o
  .debug_line    0x00004cf6      0xe1c ./src/Event.o
  .debug_line    0x00005b12      0xbb2 ./src/EventHandler.o
- .debug_line    0x000066c4      0xd8a ./src/Timer.o
- .debug_line    0x0000744e      0x370 ./src/_write.o
- .debug_line    0x000077be      0xf80 ./src/main.o
+ .debug_line    0x000066c4      0xd42 ./src/Timer.o
+ .debug_line    0x00007406      0xf67 ./src/main.o
 
-.debug_frame    0x00000000     0x93d0
+.debug_frame    0x00000000     0x8fa8
  *(.debug_frame)
  .debug_frame   0x00000000      0x1e8 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_frame   0x000001e8      0x31c ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -14239,51 +14175,35 @@ END GROUP
  .debug_frame   0x00000b64       0x30 ./src/BlinkLed.o
  .debug_frame   0x00000b94      0x224 ./src/Event.o
  .debug_frame   0x00000db8       0xa8 ./src/EventHandler.o
- .debug_frame   0x00000e60       0x94 ./src/Timer.o
- .debug_frame   0x00000ef4       0x28 ./src/_write.o
- .debug_frame   0x00000f1c       0xd4 ./src/main.o
- .debug_frame   0x00000ff0       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(del_op.o)
- .debug_frame   0x00001010      0x1e8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
- .debug_frame   0x000011f8     0x111c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
- .debug_frame   0x00002314       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_op.o)
- .debug_frame   0x0000233c     0x20b8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
- .debug_frame   0x000043f4       0x30 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
- .debug_frame   0x00004424     0x1384 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
- .debug_frame   0x000057a8     0x2094 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
- .debug_frame   0x0000783c     0x1380 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
- .debug_frame   0x00008bbc       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
- .debug_frame   0x00008bdc       0x68 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fflush.o)
- .debug_frame   0x00008c44      0x11c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
- .debug_frame   0x00008d60       0x54 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwalk.o)
- .debug_frame   0x00008db4       0x4c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fwrite.o)
- .debug_frame   0x00008e00       0x54 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-makebuf.o)
- .debug_frame   0x00008e54       0x30 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
- .debug_frame   0x00008e84       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memchr-stub.o)
- .debug_frame   0x00008eac       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
- .debug_frame   0x00008ed4       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
- .debug_frame   0x00008efc       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memmove.o)
- .debug_frame   0x00008f24       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
- .debug_frame   0x00008f44       0x38 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
- .debug_frame   0x00008f7c       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
- .debug_frame   0x00008fa8       0x3c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-puts.o)
- .debug_frame   0x00008fe4       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
- .debug_frame   0x00009010       0x88 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-stdio.o)
- .debug_frame   0x00009098       0x48 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
- .debug_frame   0x000090e0       0x40 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wbuf.o)
- .debug_frame   0x00009120       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-writer.o)
- .debug_frame   0x0000914c       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-wsetup.o)
- .debug_frame   0x00009178       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-closer.o)
- .debug_frame   0x000091a4       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-fstatr.o)
- .debug_frame   0x000091d0       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-isattyr.o)
- .debug_frame   0x000091fc       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-lseekr.o)
- .debug_frame   0x00009228       0x30 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
- .debug_frame   0x00009258       0x90 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
- .debug_frame   0x000092e8       0x60 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_frame   0x00009348       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-readr.o)
- .debug_frame   0x00009374       0x3c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-reallocr.o)
- .debug_frame   0x000093b0       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x00000e60       0x48 ./src/Timer.o
+ .debug_frame   0x00000ea8       0xd4 ./src/main.o
+ .debug_frame   0x00000f7c       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(del_op.o)
+ .debug_frame   0x00000f9c      0x1e8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(functexcept.o)
+ .debug_frame   0x00001184     0x111c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(string-inst.o)
+ .debug_frame   0x000022a0       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_op.o)
+ .debug_frame   0x000022c8     0x20b8 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(locale-inst.o)
+ .debug_frame   0x00004380       0x30 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(new_handler.o)
+ .debug_frame   0x000043b0     0x1384 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-locale-inst.o)
+ .debug_frame   0x00005734     0x2094 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(wlocale-inst.o)
+ .debug_frame   0x000077c8     0x1380 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libstdc++_nano.a(cxx11-wlocale-inst.o)
+ .debug_frame   0x00008b48       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00008b68      0x11c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00008c84       0x30 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x00008cb4       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00008cdc       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x00008d04       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00008d2c       0x28 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00008d54       0x38 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00008d8c       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00008db8       0x2c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00008de4       0x48 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-vsnprintf.o)
+ .debug_frame   0x00008e2c       0x30 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00008e5c       0x90 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00008eec       0x60 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00008f4c       0x3c z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x00008f88       0x20 z:/documents/daveprojekte/stm_board/gcc-arm-none-eabi-5_4-2016q3-20160926-win32/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-nano-msizer.o)
 
-.debug_str      0x00000000    0x6235e
+.debug_str      0x00000000    0x622f9
  *(.debug_str)
  .debug_str     0x00000000    0x4e79f ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
                               0x4e97a (size before relaxing)
@@ -14293,38 +14213,36 @@ END GROUP
                                0x6ec3 (size before relaxing)
  .debug_str     0x0005370b      0x4d6 ./system/src/newlib/_sbrk.o
                                0x62ae (size before relaxing)
- .debug_str     0x00053be1      0x260 ./system/src/newlib/_startup.o
+ .debug_str     0x00053be1      0x25b ./system/src/newlib/_startup.o
                                0x5e2e (size before relaxing)
- .debug_str     0x00053e41     0x1041 ./system/src/newlib/_syscalls.o
+ .debug_str     0x00053e3c     0x1041 ./system/src/newlib/_syscalls.o
                                0x73c4 (size before relaxing)
- .debug_str     0x00054e82       0xd0 ./system/src/newlib/assert.o
+ .debug_str     0x00054e7d       0xd0 ./system/src/newlib/assert.o
                                0x799d (size before relaxing)
- .debug_str     0x00054f52      0x883 ./system/src/diag/Trace.o
+ .debug_str     0x00054f4d      0x883 ./system/src/diag/Trace.o
                                0x76b3 (size before relaxing)
- .debug_str     0x000557d5      0x37b ./system/src/diag/trace_impl.o
+ .debug_str     0x000557d0      0x37b ./system/src/diag/trace_impl.o
                               0x51e3f (size before relaxing)
- .debug_str     0x00055b50       0xa9 ./system/src/cortexm/_initialize_hardware.o
+ .debug_str     0x00055b4b       0xa9 ./system/src/cortexm/_initialize_hardware.o
                               0x4e459 (size before relaxing)
- .debug_str     0x00055bf9      0x19d ./system/src/cortexm/exception_handlers.o
+ .debug_str     0x00055bf4      0x19d ./system/src/cortexm/exception_handlers.o
                               0x52c21 (size before relaxing)
- .debug_str     0x00055d96       0xa6 ./system/src/cmsis/system_stm32f10x.o
+ .debug_str     0x00055d91       0xa6 ./system/src/cmsis/system_stm32f10x.o
                               0x4e50e (size before relaxing)
- .debug_str     0x00055e3c       0x57 ./system/src/cmsis/vectors_stm32f10x.o
+ .debug_str     0x00055e37       0x57 ./system/src/cmsis/vectors_stm32f10x.o
                                0x3489 (size before relaxing)
- .debug_str     0x00055e93      0x700 ./src/BlinkLed.o
-                              0x4e9f9 (size before relaxing)
- .debug_str     0x00056593     0xb383 ./src/Event.o
+ .debug_str     0x00055e8e      0x756 ./src/BlinkLed.o
+                              0x4e9ec (size before relaxing)
+ .debug_str     0x000565e4     0xb383 ./src/Event.o
                               0x124de (size before relaxing)
- .debug_str     0x00061916      0x1d9 ./src/EventHandler.o
+ .debug_str     0x00061967      0x183 ./src/EventHandler.o
                               0x10758 (size before relaxing)
- .debug_str     0x00061aef      0x160 ./src/Timer.o
-                              0x5743f (size before relaxing)
- .debug_str     0x00061c4f       0x10 ./src/_write.o
-                               0x724b (size before relaxing)
- .debug_str     0x00061c5f      0x6ff ./src/main.o
-                              0x5e71a (size before relaxing)
+ .debug_str     0x00061aea       0xfe ./src/Timer.o
+                              0x573ce (size before relaxing)
+ .debug_str     0x00061be8      0x711 ./src/main.o
+                              0x5e71d (size before relaxing)
 
-.debug_loc      0x00000000     0x3d84
+.debug_loc      0x00000000     0x3c60
  *(.debug_loc)
  .debug_loc     0x00000000      0x776 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_loc     0x00000776      0x91f ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
@@ -14339,9 +14257,7 @@ END GROUP
  .debug_loc     0x00001fda       0x37 ./src/BlinkLed.o
  .debug_loc     0x00002011     0x128c ./src/Event.o
  .debug_loc     0x0000329d      0x31b ./src/EventHandler.o
- .debug_loc     0x000035b8       0x58 ./src/Timer.o
- .debug_loc     0x00003610       0xad ./src/_write.o
- .debug_loc     0x000036bd      0x6c7 ./src/main.o
+ .debug_loc     0x000035b8      0x6a8 ./src/main.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -14359,7 +14275,7 @@ END GROUP
  *(.debug_varnames)
 OUTPUT(EventHandler.elf elf32-littlearm)
 
-.debug_ranges   0x00000000      0x5a8
+.debug_ranges   0x00000000      0x580
  .debug_ranges  0x00000000       0x98 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_ranges  0x00000098      0x108 ./system/src/stm32f1-stdperiph/stm32f10x_rcc.o
  .debug_ranges  0x000001a0       0x18 ./system/src/newlib/_exit.o
@@ -14376,11 +14292,10 @@ OUTPUT(EventHandler.elf elf32-littlearm)
  .debug_ranges  0x00000430       0x10 ./src/BlinkLed.o
  .debug_ranges  0x00000440       0xa8 ./src/Event.o
  .debug_ranges  0x000004e8       0x38 ./src/EventHandler.o
- .debug_ranges  0x00000520       0x38 ./src/Timer.o
- .debug_ranges  0x00000558       0x10 ./src/_write.o
- .debug_ranges  0x00000568       0x40 ./src/main.o
+ .debug_ranges  0x00000520       0x20 ./src/Timer.o
+ .debug_ranges  0x00000540       0x40 ./src/main.o
 
-.debug_macro    0x00000000     0x6672
+.debug_macro    0x00000000     0x64f6
  .debug_macro   0x00000000      0x1f8 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_macro   0x000001f8       0x8b ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
  .debug_macro   0x00000283      0x2a6 ./system/src/stm32f1-stdperiph/stm32f10x_gpio.o
@@ -14473,12 +14388,11 @@ OUTPUT(EventHandler.elf elf32-littlearm)
  .debug_macro   0x000055bf      0x5dc ./src/Timer.o
  .debug_macro   0x00005b9b       0x10 ./src/Timer.o
  .debug_macro   0x00005bab       0x10 ./src/Timer.o
- .debug_macro   0x00005bbb      0x17c ./src/_write.o
- .debug_macro   0x00005d37      0x6d9 ./src/main.o
- .debug_macro   0x00006410       0x97 ./src/main.o
- .debug_macro   0x000064a7      0x104 ./src/main.o
- .debug_macro   0x000065ab       0x22 ./src/main.o
- .debug_macro   0x000065cd       0x26 ./src/main.o
- .debug_macro   0x000065f3       0x10 ./src/main.o
- .debug_macro   0x00006603       0x41 ./src/main.o
- .debug_macro   0x00006644       0x2e ./src/main.o
+ .debug_macro   0x00005bbb      0x6d9 ./src/main.o
+ .debug_macro   0x00006294       0x97 ./src/main.o
+ .debug_macro   0x0000632b      0x104 ./src/main.o
+ .debug_macro   0x0000642f       0x22 ./src/main.o
+ .debug_macro   0x00006451       0x26 ./src/main.o
+ .debug_macro   0x00006477       0x10 ./src/main.o
+ .debug_macro   0x00006487       0x41 ./src/main.o
+ .debug_macro   0x000064c8       0x2e ./src/main.o

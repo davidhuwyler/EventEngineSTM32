@@ -37,23 +37,26 @@ class Timer
 public:
   typedef uint32_t ticks_t;
   static constexpr ticks_t FREQUENCY_HZ = 1000u;
-
+  static EventHandler* eventHandler;
 
 private:
   static volatile ticks_t ms_delayCount;
-  EventHandler* eventHandler;
+
 
 public:
   // Default constructor
   Timer() = default;
 
   inline void
-  start(EventHandler* handler)
+  start()
   {
     // Use SysTick as reference for the delay loops.
     SysTick_Config(SystemCoreClock / FREQUENCY_HZ);
-    this->eventHandler = handler;
+    //this->eventHandler = handler;
   }
+
+  static void
+  setEventHandler(EventHandler* handler);
 
   static void
   sleep(ticks_t ticks);
@@ -67,7 +70,8 @@ public:
         --ms_delayCount;
       }
 
-    eventHandler->tick();
+    Timer::eventHandler->tick();
+    //eventHandler->tick();
   }
 };
 
