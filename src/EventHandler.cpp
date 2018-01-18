@@ -8,41 +8,33 @@
 #include "EventHandler.h"
 #include "Event.h"
 
-EventHandler::EventHandler()
-{
-
-}
-
 bool EventHandler::add(Event* event)
 {
-	unsigned int i = 0;
-	bool eventFound = false;
-
+	std::uint32_t i = 0;
 	while(i < (this->eventIndex))
 	{
 		if(eventArray[i]->getName().compare(event->getName())==0)
 		{
 			this->eventArray[i] = event;
-			return true;
+			return true;		//EventAlready in the EventHandler
 		}
 		i++;
 	}
 
-	if(!eventFound && (this->eventIndex < (MAX_NOF_EVENTS-1)))
+	if(this->eventIndex < (MAX_NOF_EVENTS-1))
 	{
 		this->eventArray[eventIndex] = event;
 		this->eventIndex ++;
-		return true;
+		return true;			//Event sucessfully added
 	}
 
-	return false;
+	return false;				//Even not added... EventHanlder is full
 
 }
 
 void EventHandler::tick(void)
 {
-	unsigned int i = 0;
-	for(i = 0 ; i< this->eventIndex ; i++)
+	for(std::uint32_t i = 0 ; i< this->eventIndex ; i++)
 	{
 		eventArray[i]->tick();
 	}
@@ -50,9 +42,9 @@ void EventHandler::tick(void)
 
 void EventHandler::execute(void)
 {
-	unsigned int i = 0;
 	bool eventHandeled = false;
 
+	std::uint32_t i = 0;
 	while(!eventHandeled && i<this->eventIndex)
 	{
 		if(eventArray[i]->call())
@@ -61,8 +53,6 @@ void EventHandler::execute(void)
 		i++;
 	}
 }
-
-
 
 EventHandler::~EventHandler() {
 	// TODO Auto-generated destructor stub

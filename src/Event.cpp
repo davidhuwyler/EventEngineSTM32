@@ -7,12 +7,6 @@
 
 #include "Event.h"
 
-//Event::Event(std::string name,EventType eventType)
-//{
-//	this->name = name;
-//	this->eventType = eventType;
-//}
-
 Event::Event(std::string name,EventType eventType, EventHandler* handler)
 {
 	this->name = name;
@@ -29,7 +23,7 @@ Event::Event(std::string name,callback_t callback,EventHandler* handler)
 	this->eventType = CallbackFunction;
 }
 
-Event::Event(std::string name,callback_t callback, unsigned int timeBevoreCall_ms,EventHandler* handler)
+Event::Event(std::string name,callback_t callback, std::uint32_t timeBevoreCall_ms,EventHandler* handler)
 {
 	this->name = name;
 	this->callback = callback;
@@ -49,7 +43,7 @@ Event::Event(std::string name,std::function<void(void)> callbackMemberFunction,E
 	this->callback = NULL;
 }
 
-Event::Event(std::string name,std::function<void(void)> callbackMemberFunction,unsigned int timeBevoreCall_ms,EventHandler* handler)
+Event::Event(std::string name,std::function<void(void)> callbackMemberFunction,std::uint32_t timeBevoreCall_ms,EventHandler* handler)
 {
 	this->name = name;
 	this->callbackMemberFunction = callbackMemberFunction;
@@ -86,7 +80,7 @@ bool Event::activate()
 		return false;
 }
 
-bool Event::activate(unsigned int timeBevoreCall_ms)
+bool Event::activate(std::uint32_t timeBevoreCall_ms)
 {
 	this->reloadTime_ms = timeBevoreCall_ms;
 	if(isActivated==false)
@@ -130,7 +124,7 @@ void Event::setEventHandler(EventHandler* handler)
 	this->handler = handler;
 }
 
-void Event::setReloadTime(unsigned int timeBevoreCall_ms)
+void Event::setReloadTime(std::uint32_t timeBevoreCall_ms)
 {
 	this->reloadTime_ms = timeBevoreCall_ms;
 }
