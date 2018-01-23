@@ -3,7 +3,7 @@
 #include "diag/Trace.h"
 
 #include "Timer.h"
-#include "BlinkLed.h"
+#include "GPIOout.h"
 
 #include "EventHandler.h"
 #include "Event.h"
@@ -29,7 +29,9 @@ namespace
 
   //Timer and LED objects
   Timer timer;
-  BlinkLed blinkLed;
+
+  //Port definitions
+  GPIOout<2,13> portC13;
 }
 
 // ----- main() ---------------------------------------------------------------
@@ -45,9 +47,8 @@ int
 main(int argc, char* argv[])
 {
   trace_printf("System clock: %u Hz\n", SystemCoreClock);
-  timer.start();
   timer.setEventHandler(&handler);
-  blinkLed.powerUp();
+  timer.start();
 
   while (1)
     {
@@ -59,13 +60,13 @@ void ledOnFunction(void)
 {
 	offEvent.activate();
 	//trace_printf("Turn On LED");
-	blinkLed.turnOn();
+	portC13.toggle();
 }
 void ledOffFunction(void)
 {
 	onEvent.activate();
 	//trace_printf("Turn Off LED");
-	blinkLed.turnOff();
+	portC13.toggle();
 }
 
 #pragma GCC diagnostic pop
