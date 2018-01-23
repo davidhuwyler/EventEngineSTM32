@@ -14,19 +14,17 @@ void ledOffFunction(void);
 
 namespace
 {
-  // ----- Timing definitions -------------------------------------------------
-
   // Event definitions:
   EventHandler handler;
 
   // -> ledOnEvent
   std::string onEventName = "onEvent";
-  Timer::ticks_t onEventDelay = Timer::FREQUENCY_HZ / 500; // 100ms
+  Timer::ticks_t onEventDelay = Timer::FREQUENCY_HZ / 5000;
   Event onEvent = Event(onEventName,ledOnFunction,onEventDelay,&handler);
 
   // -> ledOnEvent
   std::string offEventName = "offEvent";
-  Timer::ticks_t offEventDelay = Timer::FREQUENCY_HZ / 1000; // 50ms
+  Timer::ticks_t offEventDelay = Timer::FREQUENCY_HZ / 5000;
   Event offEvent = Event(offEventName,ledOffFunction,offEventDelay,&handler);
 
   //Timer and LED objects
@@ -60,13 +58,13 @@ main(int argc, char* argv[])
 void ledOnFunction(void)
 {
 	offEvent.activate();
-	trace_printf("Turn On LED");
+	//trace_printf("Turn On LED");
 	blinkLed.turnOn();
 }
 void ledOffFunction(void)
 {
 	onEvent.activate();
-	trace_printf("Turn Off LED");
+	//trace_printf("Turn Off LED");
 	blinkLed.turnOff();
 }
 
