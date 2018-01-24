@@ -33,9 +33,8 @@ bool EventHandler::add(Event* event)
 	std::uint32_t i = 0;
 	while(i < (EventHandler::eventIndex))
 	{
-		if(EventHandler::eventArray[i]->getName().compare(event->getName())==0)
+		if(EventHandler::eventArray[i] == event)
 		{
-			EventHandler::eventArray[i] = event;
 			return true;		//EventAlready in the EventHandler
 		}
 		i++;
@@ -45,7 +44,7 @@ bool EventHandler::add(Event* event)
 	{
 		EventHandler::eventArray[EventHandler::eventIndex] = event;
 		EventHandler::eventIndex ++;
-		return true;			//Event sucessfully added
+		return true;			//Event successfully added
 	}
 
 	return false;				//Even not added... EventHanlder is full

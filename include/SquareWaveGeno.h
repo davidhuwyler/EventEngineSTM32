@@ -21,23 +21,18 @@ class SquareWaveGeno{
 public:
 	SquareWaveGeno()
 	{
-		  eventDelay = EventHandler::FREQUENCY_HZ / (2*frequency);
-
-		  squareWaveEvent.setCallbackMemberFunction(std::bind(&SquareWaveGeno::toggleOutput,this));
-		  squareWaveEvent.activate(eventDelay);
+		sqrWaveEvent.setCallbackFunction(std::bind(&SquareWaveGeno::toggleOutput,this));
+		sqrWaveEvent.activate(EventHandler::FREQUENCY_HZ / (2*frequency));
 	}
 
 private:
-
 	  GPIOout<portNumber,pinNumber> output;
-	  // -> Event
-	  std::string eventName = "squareWaveString";
-	  EventHandler::ticks_t eventDelay;
-	  Event squareWaveEvent = Event(eventName,CallbackMemberFunction,EventHandler::getInstance());
+	  Event sqrWaveEvent = Event(EventHandler::getInstance());
 
+	  //Toggle Function
 	  inline void __attribute__((always_inline)) toggleOutput()
 	  {
-		  squareWaveEvent.activate();
+		  sqrWaveEvent.activate();
 		  output.toggle();
 	  }
 };

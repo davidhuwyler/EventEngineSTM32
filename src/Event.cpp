@@ -7,48 +7,21 @@
 
 #include "Event.h"
 
-Event::Event(std::string name,EventType eventType, EventHandler* handler)
+Event::Event(EventHandler* handler)
 {
-	this->name = name;
-	this->eventType = eventType;
 	this->handler = handler;
-	this->callback = NULL;
 }
 
-Event::Event(std::string name,callback_t callback,EventHandler* handler)
+Event::Event(std::function<void(void)> callbackFunction,EventHandler* handler)
 {
-	this->name = name;
-	this->callback = callback;
+	this->callbackFunction = callbackFunction;
 	this->handler = handler;
-	this->eventType = CallbackFunction;
 }
 
-Event::Event(std::string name,callback_t callback, std::uint32_t timeBevoreCall_ms,EventHandler* handler)
+Event::Event(std::function<void(void)> callbackFunction,std::uint32_t timeBevoreCall_ms,EventHandler* handler)
 {
-	this->name = name;
-	this->callback = callback;
+	this->callbackFunction = callbackFunction;
 	this->handler = handler;
-	this->eventType = CallbackFunction;
-	this->reloadTime_ms = timeBevoreCall_ms;
-	activate(timeBevoreCall_ms);
-}
-
-
-Event::Event(std::string name,std::function<void(void)> callbackMemberFunction,EventHandler* handler)
-{
-	this->name = name;
-	this->callbackMemberFunction = callbackMemberFunction;
-	this->handler = handler;
-	this->eventType = CallbackMemberFunction;
-	this->callback = NULL;
-}
-
-Event::Event(std::string name,std::function<void(void)> callbackMemberFunction,std::uint32_t timeBevoreCall_ms,EventHandler* handler)
-{
-	this->name = name;
-	this->callbackMemberFunction = callbackMemberFunction;
-	this->handler = handler;
-	this->eventType = CallbackMemberFunction;
 	this->reloadTime_ms = timeBevoreCall_ms;
 	activate(timeBevoreCall_ms);
 }
@@ -59,11 +32,8 @@ bool Event::call()
 	{
 		this->requiersCalling = false;
 		this->isActivated = false;
-		if(this->callback && (this->eventType == CallbackFunction))
-			this->callback();
-
-		else if(this->callbackMemberFunction &&  (this->eventType == CallbackMemberFunction))
-			this->callbackMemberFunction();
+		if(this->callbackFunction)
+			this->callbackFunction();
 
 		return true;
 	}
@@ -114,10 +84,6 @@ void Event::tick()
 	 }
 }
 
-std::string Event::getName(void)
-{
-	return name;
-}
 
 void Event::setEventHandler(EventHandler* handler)
 {
@@ -129,14 +95,9 @@ void Event::setReloadTime(std::uint32_t timeBevoreCall_ms)
 	this->reloadTime_ms = timeBevoreCall_ms;
 }
 
-void Event::setCallbackFunction(callback_t callback)
+void Event::setCallbackFunction(std::function<void(void)> callbackFunction)
 {
-	this->callback = callback;
-}
-
-void Event::setCallbackMemberFunction(std::function<void(void)> callbackMemberFunction)
-{
-	this->callbackMemberFunction = callbackMemberFunction;
+	this->callbackFunction = callbackFunction;
 }
 
 Event::~Event() {

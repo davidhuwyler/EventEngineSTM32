@@ -15,20 +15,21 @@ void ledOffFunction(void);
 namespace
 {
   // -> ledOnEvent
-  std::string onEventName = "onEvent";
   EventHandler::ticks_t onEventDelay = EventHandler::FREQUENCY_HZ / 5000;
-  Event onEvent = Event(onEventName,ledOnFunction,onEventDelay,EventHandler::getInstance());
+  Event onEvent = Event(ledOnFunction,onEventDelay,EventHandler::getInstance());
 
   // -> ledOnEvent
-  std::string offEventName = "offEvent";
   EventHandler::ticks_t offEventDelay = EventHandler::FREQUENCY_HZ / 5000;
-  Event offEvent = Event(offEventName,ledOffFunction,offEventDelay,EventHandler::getInstance());
+  Event offEvent = Event(ledOffFunction,offEventDelay,EventHandler::getInstance());
 
   //Port definitions
   GPIOout<2,13> portC13;
 
   //Add SquareWafe Geno on Pin C14
-  SquareWaveGeno<2,14,500> squareWavegeno;
+  SquareWaveGeno<2,14,500> sqrWaveGenoC14;
+  SquareWaveGeno<0,0,777>  sqrWaveGenoA0;
+  SquareWaveGeno<0,1,150>  sqrWaveGenoA1;
+  SquareWaveGeno<0,2,333>  sqrWaveGenoA2;
 }
 
 // ----- main() ---------------------------------------------------------------
