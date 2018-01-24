@@ -7,24 +7,44 @@
 
 #include "EventHandler.h"
 #include "Event.h"
+#include "cortexm/ExceptionHandlers.h"
+#include "cmsis_device.h"
+
+
+Event* 			EventHandler::eventArray[EventHandler::MAX_NOF_EVENTS];
+std::uint32_t 	EventHandler::eventIndex = 0;
+EventHandler* 	EventHandler::handlerInstance;
+
+EventHandler* EventHandler::getInstance()
+{
+	static bool init = true;
+	//Init:
+	if(init)
+	{
+		SysTick_Config(SystemCoreClock / EventHandler::FREQUENCY_HZ);
+		init = false;
+	}
+
+	return EventHandler::handlerInstance;
+}
 
 bool EventHandler::add(Event* event)
 {
 	std::uint32_t i = 0;
-	while(i < (this->eventIndex))
+	while(i < (EventHandler::eventIndex))
 	{
-		if(eventArray[i]->getName().compare(event->getName())==0)
+		if(EventHandler::eventArray[i]->getName().compare(event->getName())==0)
 		{
-			this->eventArray[i] = event;
+			EventHandler::eventArray[i] = event;
 			return true;		//EventAlready in the EventHandler
 		}
 		i++;
 	}
 
-	if(this->eventIndex < (MAX_NOF_EVENTS-1))
+	if(EventHandler::eventIndex < (EventHandler::MAX_NOF_EVENTS-1))
 	{
-		this->eventArray[eventIndex] = event;
-		this->eventIndex ++;
+		EventHandler::eventArray[EventHandler::eventIndex] = event;
+		EventHandler::eventIndex ++;
 		return true;			//Event sucessfully added
 	}
 
@@ -34,20 +54,20 @@ bool EventHandler::add(Event* event)
 
 void EventHandler::tick(void)
 {
-	for(std::uint32_t i = 0 ; i< this->eventIndex ; i++)
+	for(std::uint32_t i = 0 ; i< EventHandler::eventIndex ; i++)
 	{
-		eventArray[i]->tick();
+		EventHandler::eventArray[i]->tick();
 	}
 }
 
-void EventHandler::execute(void)
+void EventHandler::executePendingEvents(void)
 {
 	bool eventHandeled = false;
 
 	std::uint32_t i = 0;
-	while(!eventHandeled && i<this->eventIndex)
+	while(!eventHandeled && i<EventHandler::eventIndex)
 	{
-		if(eventArray[i]->call())
+		if(EventHandler::eventArray[i]->call())
 			eventHandeled = true;
 
 		i++;
@@ -60,6 +80,8 @@ EventHandler::~EventHandler() {
 
 
 
-
-
-
+// Sys Tick Handler:
+extern "C" void SysTick_Handler(void)
+{
+	EventHandler::getInstance()->tick();
+}

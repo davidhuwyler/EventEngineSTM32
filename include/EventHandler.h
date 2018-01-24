@@ -11,22 +11,26 @@
 #include <string>
 #include <cstdint>
 
-typedef void (*callback_t)();
-
-constexpr std::uint32_t MAX_NOF_EVENTS = 20;
-
 class Event;
 class EventHandler {
 
 private:
-	Event* eventArray[MAX_NOF_EVENTS];
-	std::uint32_t eventIndex = 0;		// Current number of Events in the EventHandler
+	typedef void (*callback_t)();
+	static EventHandler* handlerInstance;
+	static constexpr std::uint32_t MAX_NOF_EVENTS = 20;
+	static Event* eventArray[MAX_NOF_EVENTS];			// Array of all Events in the Handler
+	static std::uint32_t eventIndex;					// Current number of Events in the EventHandler
+
+
 
 public:
-	EventHandler(void) = default;
+	typedef uint32_t ticks_t;
+	static constexpr ticks_t FREQUENCY_HZ = 5000u;
+
+	static EventHandler* getInstance();
 	bool add(Event* event);				//Add an Event to the EventHandler if possible
 	void tick(void);					//Decrease the "time bevore call" of all Events by 1 tick. Called by Timer
-	void execute(void);					//Execute the next Event in the eventArray which needs to be called --> Events with low indexes in the eventArray have higher prio. Called in main
+	void executePendingEvents(void);	//Execute the next Event in the eventArray which needs to be called --> Events with low indexes in the eventArray have higher prio. Called in main
 
 	virtual ~EventHandler();
 };

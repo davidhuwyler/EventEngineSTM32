@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include "diag/Trace.h"
 
-#include "Timer.h"
 #include "GPIOout.h"
-
+#include "SquareWaveGeno.h"
 #include "EventHandler.h"
 #include "Event.h"
+
 
 //Prototypes
 void ledOnFunction(void);
@@ -14,24 +14,21 @@ void ledOffFunction(void);
 
 namespace
 {
-  // Event definitions:
-  EventHandler handler;
-
   // -> ledOnEvent
   std::string onEventName = "onEvent";
-  Timer::ticks_t onEventDelay = Timer::FREQUENCY_HZ / 5000;
-  Event onEvent = Event(onEventName,ledOnFunction,onEventDelay,&handler);
+  EventHandler::ticks_t onEventDelay = EventHandler::FREQUENCY_HZ / 5000;
+  Event onEvent = Event(onEventName,ledOnFunction,onEventDelay,EventHandler::getInstance());
 
   // -> ledOnEvent
   std::string offEventName = "offEvent";
-  Timer::ticks_t offEventDelay = Timer::FREQUENCY_HZ / 5000;
-  Event offEvent = Event(offEventName,ledOffFunction,offEventDelay,&handler);
-
-  //Timer and LED objects
-  Timer timer;
+  EventHandler::ticks_t offEventDelay = EventHandler::FREQUENCY_HZ / 5000;
+  Event offEvent = Event(offEventName,ledOffFunction,offEventDelay,EventHandler::getInstance());
 
   //Port definitions
   GPIOout<2,13> portC13;
+
+  //Add SquareWafe Geno on Pin C14
+  SquareWaveGeno<2,14,500> squareWavegeno;
 }
 
 // ----- main() ---------------------------------------------------------------
@@ -47,12 +44,10 @@ int
 main(int argc, char* argv[])
 {
   trace_printf("System clock: %u Hz\n", SystemCoreClock);
-  timer.setEventHandler(&handler);
-  timer.start();
 
   while (1)
     {
-	  handler.execute();
+	  EventHandler::getInstance()->executePendingEvents();
     }
 }
 
